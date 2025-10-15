@@ -1,4 +1,18 @@
-body {
-    background-color: rgb(210, 230, 238);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
+body {
+    background-color: lightgrey;
+    color: #444;
+    line-height: 1.7;
+    padding: 0 10%;
+}
+
+#table {
+    position: relative;
+    
+}
